@@ -8,4 +8,4 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 ### Meus Stats (My Stats)
 ![cawe0110 github stats](https://github-readme-stats.vercel.app/api?username=cawe0110&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cawe0110&layout=compact)](https://github.com/cawe0110/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cawe0110&layout=compact&bg_color=black)](https://github.com/cawe0110/github-readme-stats)
