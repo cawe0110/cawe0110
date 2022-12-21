@@ -1,4 +1,4 @@
-### Meus Contatos (Contact Me) 👋
+#### Meus Contatos (Contact Me) 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-micheletti-duarte/)
 ### kauemicheletti2004@gmail.com
 ### O que estou aprendendo (What i am learning)
